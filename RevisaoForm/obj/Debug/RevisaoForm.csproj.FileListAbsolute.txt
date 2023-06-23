@@ -1,0 +1,11 @@
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\bin\Debug\RevisaoForm.exe.config
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\bin\Debug\RevisaoForm.exe
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\bin\Debug\RevisaoForm.pdb
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\obj\Debug\RevisaoForm.csproj.AssemblyReference.cache
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\obj\Debug\RevisaoForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\obj\Debug\RevisaoForm.Form1.resources
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\obj\Debug\RevisaoForm.Properties.Resources.resources
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\obj\Debug\RevisaoForm.csproj.GenerateResource.cache
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\obj\Debug\RevisaoForm.csproj.CoreCompileInputs.cache
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\obj\Debug\RevisaoForm.exe
+C:\Users\2022102020065\source\repos\RevisaoForm\RevisaoForm\obj\Debug\RevisaoForm.pdb
